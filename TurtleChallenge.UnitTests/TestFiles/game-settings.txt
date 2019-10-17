@@ -1,0 +1,5 @@
+﻿Board Size: 10;4
+Starting Point: 1,2
+Direction: North
+Exit Point: 3,0
+Mines: 2,2;5,2;7,4
